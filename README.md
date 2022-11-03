@@ -1,1 +1,1 @@
-# sampleClassInJava
+# sampleClassInKotlin
